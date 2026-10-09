@@ -1,0 +1,788 @@
+﻿id_venda,cliente_id,data_cadastro,ultima_compra,cidade,segmento,produto_id,idade,quantidade,valor
+1,18,2024-04-22,2026-06-05,Manaus,Intermediario,Headset,22.0,4,516.18
+2,106,2023-10-20,2026-05-21,Santarem,Premium,Monitor,47.0,1,2279.41
+3,101,2025-04-28,2026-08-29,Boa Vista,Premium,Monitor,41.0,5,2244.9
+4,91,2025-09-07,2026-09-15,Manaus,Premium,Notebook,67.0,5,3176.74
+5,34,2024-05-07,2026-05-28,Belem,Basico,Headset,43.0,5,3903.0
+6,152,2025-10-07,2026-07-28,Manaus,Intermediario,Notebook,49.0,1,3431.09
+7,185,2024-05-19,2026-07-27,Boa Vista,Intermediario,Mouse,70.0,2,2374.3
+8,160,2025-10-12,2026-07-10,Macapa,Premium,Teclado,37.0,2,3365.58
+9,189,2025-02-26,2026-09-02,Boa Vista,Intermediario,Monitor,23.0,2,4169.69
+10,88,2024-03-25,2026-05-02,Belem,Premium,Mouse,31.0,4,741.77
+11,167,2025-10-03,2026-05-09,Macapa,Premium,Monitor,47.0,4,3540.57
+12,56,2024-04-16,2026-06-23,Manaus,Intermediario,Teclado,47.0,1,616.92
+13,88,2024-07-29,2026-06-05,Manaus,Premium,Teclado,47.0,4,3191.86
+14,114,2024-11-11,2026-09-15,Manaus,Premium,Mouse,47.0,1,2211.75
+15,197,2025-09-19,2026-08-12,Manaus,Premium,Headset,47.0,2,338.6
+16,172,2025-07-20,2026-04-18,Belem,Intermediario,Monitor,47.0,3,3930.3
+17,200,2024-08-01,2026-07-19,Manaus,Intermediario,Headset,47.0,1,162.42
+18,22,2026-01-12,2026-05-15,Santarem,Premium,Teclado,47.0,1,2530.17
+19,188,2025-11-15,2026-07-03,Santarem,Intermediario,Teclado,47.0,2,1542.48
+20,137,2024-09-02,2026-06-14,Belem,Premium,Notebook,47.0,1,4811.39
+21,74,2023-12-21,2026-07-04,Santarem,Intermediario,Mouse,47.0,5,3904.82
+22,53,2024-06-14,2026-05-12,Manaus,Premium,Mouse,47.0,1,4517.88
+23,26,2025-02-09,2026-05-27,Belem,Premium,Mouse,47.0,3,925.03
+24,93,2024-02-06,2026-09-28,Santarem,Intermediario,Monitor,47.0,3,3155.18
+25,29,2024-10-14,2026-09-14,Santarem,Intermediario,Notebook,47.0,3,255.99
+26,36,2025-01-05,2026-08-28,Belem,Intermediario,Notebook,57.0,1,2958.84
+27,159,2025-10-30,2026-08-08,Boa Vista,Premium,Teclado,43.0,2,2975.03
+28,59,2026-03-15,2026-09-04,Boa Vista,Intermediario,Teclado,45.0,4,459.51
+29,56,2025-01-12,2026-06-02,Manaus,Intermediario,Headset,27.0,3,2393.77
+30,162,2025-08-02,2026-04-12,Belem,Intermediario,Teclado,67.0,3,156.98
+31,73,2024-03-05,2026-09-30,Desconhecida,Intermediario,Notebook,35.0,3,587.45
+32,134,2024-07-25,2026-09-10,Desconhecida,Basico,Monitor,60.0,4,3854.81
+33,65,2025-12-26,2026-06-12,Desconhecida,Premium,Mouse,31.0,1,2796.52
+34,110,2025-04-28,2026-08-06,Desconhecida,Intermediario,Headset,73.0,2,4766.85
+35,127,2025-07-11,2026-06-11,Desconhecida,Premium,Mouse,75.0,5,864.81
+36,107,2026-02-22,2026-08-08,Desconhecida,Premium,Headset,26.0,5,3755.61
+37,170,2024-01-06,2026-08-22,Desconhecida,Basico,Teclado,45.0,2,3871.46
+38,68,2024-08-04,2026-07-19,Desconhecida,Premium,Notebook,60.0,4,1349.18
+39,2,2023-11-25,2026-04-13,Desconhecida,Basico,Notebook,21.0,5,808.76
+40,150,2025-10-22,2026-07-27,Desconhecida,Premium,Headset,20.0,1,1586.1
+41,200,2024-04-19,2026-08-05,Desconhecida,Intermediario,Teclado,43.0,1,118.98
+42,35,2025-09-05,2026-08-12,Desconhecida,Basico,Monitor,74.0,1,2556.33
+43,186,2024-07-05,2026-05-16,Desconhecida,Intermediario,Notebook,68.0,5,3591.27
+44,17,2024-05-25,2026-05-05,Desconhecida,Intermediario,Notebook,50.0,5,2018.01
+45,195,2025-07-02,2026-09-08,Desconhecida,Intermediario,Monitor,36.0,5,1467.91
+46,193,2023-12-06,2026-07-03,Macapa,Intermediario,Teclado,26.0,4,574.19
+47,145,2025-11-26,2026-05-19,Manaus,Basico,Headset,27.0,3,4668.46
+48,148,2024-03-25,2026-07-15,Manaus,Intermediario,Monitor,67.0,1,590.26
+49,58,2024-03-02,2026-08-17,Santarem,Intermediario,Mouse,37.0,3,3049.78
+50,187,2024-01-27,2026-05-18,Santarem,Basico,Teclado,24.0,2,2158.12
+61,124,2024-04-18,2026-05-21,Macapa,Premium,Teclado,36.0,3,4294.98
+62,167,2025-02-03,2026-05-13,Belem,Premium,Monitor,32.0,2,741.85
+63,87,2025-01-20,2026-09-02,Manaus,Intermediario,Mouse,37.0,2,1863.64
+64,148,2025-06-07,2026-07-15,Belem,Basico,Monitor,31.0,2,4746.85
+65,135,2023-12-13,2026-04-30,Manaus,Premium,Mouse,44.0,3,4250.37
+66,98,2024-08-12,2026-08-26,Boa Vista,Intermediario,Teclado,62.0,4,1476.37
+67,36,2024-05-28,2026-09-25,Belem,Intermediario,Monitor,47.0,5,703.91
+68,191,2024-09-16,2026-06-08,Macapa,Intermediario,Monitor,51.0,1,4682.9
+69,145,2025-11-29,2026-04-11,Boa Vista,Basico,Headset,41.0,3,3923.99
+70,200,2024-04-03,2026-04-16,Boa Vista,Basico,Mouse,59.0,3,520.49
+71,105,2024-09-15,2026-09-01,Macapa,Basico,Teclado,18.0,3,2356.63
+72,136,2024-12-10,2026-05-23,Macapa,Premium,Monitor,48.0,3,3017.99
+73,28,2023-11-30,2026-05-02,Macapa,Premium,Notebook,59.0,1,3306.42
+74,146,2025-03-15,2026-04-18,Macapa,Basico,Monitor,60.0,2,4496.91
+75,164,2024-05-03,2026-06-09,Macapa,Premium,Mouse,48.0,2,830.18
+76,193,2025-11-20,2026-09-16,Macapa,Intermediario,Teclado,60.0,2,3661.94
+77,36,2024-11-12,2026-04-13,Macapa,Intermediario,Monitor,53.0,3,1912.98
+78,131,2023-10-10,2026-10-01,Macapa,Premium,Headset,42.0,1,4260.14
+79,176,2024-08-26,2026-09-09,Macapa,Intermediario,Teclado,19.0,4,110.9
+80,20,2025-02-11,2026-05-24,Macapa,Intermediario,Mouse,74.0,3,2239.45
+81,3,2025-07-01,2026-06-30,Macapa,Premium,Monitor,49.0,1,4985.32
+82,9,2024-01-17,2026-05-31,Macapa,Premium,Headset,20.0,1,4995.57
+83,5,2024-07-31,2026-09-07,Macapa,Intermediario,Notebook,57.0,5,193.55
+84,50,2025-08-26,2026-07-11,Macapa,Premium,Monitor,64.0,1,4557.66
+85,58,2024-08-09,2026-04-20,Macapa,Basico,Notebook,27.0,1,3049.33
+86,197,2024-03-28,2026-04-10,Macapa,Basico,Headset,32.0,1,4014.77
+87,194,2023-12-03,2026-09-10,Macapa,Premium,Monitor,65.0,5,248.75
+88,92,2025-10-01,2026-09-11,Macapa,Premium,Teclado,49.0,4,3168.56
+89,18,2024-02-11,2026-07-12,Macapa,Premium,Monitor,21.0,1,1390.26
+90,20,2024-06-20,2026-06-29,Macapa,Premium,Monitor,47.0,1,3100.73
+91,1,2026-02-25,2026-08-23,Boa Vista,Premium,Monitor,41.0,1,504.02
+92,155,2025-10-18,2026-07-25,Boa Vista,Premium,Teclado,49.0,4,3200.22
+93,175,2024-10-25,2026-07-13,Macapa,Premium,Headset,49.0,2,2911.19
+94,108,2024-06-30,2026-08-16,Santarem,Premium,Headset,27.0,1,2566.35
+95,139,2025-03-29,2026-04-19,Manaus,Premium,Notebook,74.0,1,1426.47
+96,19,2025-06-28,2026-06-12,Manaus,Premium,Monitor,41.0,4,2088.46
+97,31,2025-03-24,2026-05-02,Belem,Premium,Teclado,52.0,2,228.5
+98,60,2025-03-16,2026-07-07,Manaus,Premium,Mouse,23.0,3,2850.57
+99,118,2024-06-28,2026-06-24,Santarem,Premium,Monitor,53.0,2,3947.79
+100,69,2024-11-15,2026-08-27,Manaus,Premium,Monitor,48.0,2,2588.06
+101,162,2024-05-27,2026-06-22,Boa Vista,Basico,Headset,67.0,3,2625.36
+102,54,2024-03-30,2026-08-18,Belem,Intermediario,Headset,40.0,3,623.49
+103,12,2026-01-28,2026-04-27,Boa Vista,Premium,Notebook,22.0,2,1703.94
+104,98,2025-10-27,2026-05-22,Belem,Basico,Monitor,70.0,1,4144.51
+105,142,2024-02-06,2026-07-18,Belem,Premium,Notebook,31.0,4,642.38
+106,102,2025-05-04,2026-07-03,Boa Vista,Basico,Headset,44.0,4,1589.26
+107,155,2024-07-11,2026-09-05,Santarem,Premium,Mouse,71.0,4,103.1
+108,135,2025-09-24,2026-05-18,Manaus,Intermediario,Notebook,59.0,1,4189.71
+109,185,2023-10-07,2026-04-11,Manaus,Basico,Headset,64.0,5,750.9
+110,101,2025-02-16,2026-05-02,Belem,Basico,Notebook,66.0,4,2197.21
+114,82,2024-07-27,2026-05-11,Santarem,Intermediario,Notebook,60.0,2,2720.66
+115,177,2025-05-28,2026-04-16,Boa Vista,Basico,Teclado,48.0,4,4267.48
+116,74,2024-12-26,2026-07-16,Boa Vista,Basico,Teclado,24.0,5,1735.92
+117,117,2025-01-01,2026-05-01,Manaus,Intermediario,Notebook,19.0,2,4590.82
+118,126,2024-09-01,2026-07-23,Macapa,Basico,Mouse,36.0,1,172.87
+119,122,2023-12-03,2026-05-29,Manaus,Intermediario,Mouse,26.0,3,86.21
+120,84,2025-07-23,2026-09-01,Santarem,Intermediario,Monitor,59.0,5,3120.77
+121,176,2025-01-20,2026-04-06,Santarem,Intermediario,Headset,47.0,4,4817.9
+122,125,2024-04-15,2026-07-10,Boa Vista,Basico,Notebook,47.0,4,2228.44
+123,130,2024-11-12,2026-04-10,Santarem,Intermediario,Headset,24.0,5,1476.73
+124,165,2024-05-29,2026-04-09,Santarem,Intermediario,Mouse,18.0,1,252.69
+125,102,2024-04-19,2026-04-10,Manaus,Premium,Headset,67.0,3,4890.69
+126,49,2025-03-22,2026-09-18,Santarem,Intermediario,Notebook,30.0,3,4020.2
+127,54,2023-12-06,2026-07-13,Boa Vista,Basico,Notebook,21.0,2,291.06
+128,74,2025-12-25,2026-04-16,Santarem,Premium,Monitor,56.0,4,4334.01
+129,148,2024-05-24,2026-07-22,Boa Vista,Intermediario,Notebook,70.0,2,3128.39
+130,47,2024-02-05,2026-07-13,Macapa,Premium,Teclado,33.0,4,196.56
+131,152,2025-03-31,2026-05-28,Boa Vista,Intermediario,Monitor,32.0,2,4271.27
+132,105,2025-05-19,2026-05-13,Boa Vista,Premium,Mouse,59.0,3,2014.85
+133,23,2025-07-26,2026-06-24,Boa Vista,Premium,Notebook,57.0,1,1742.54
+134,90,2024-06-13,2026-07-17,Boa Vista,Intermediario,Headset,55.0,2,2069.31
+135,107,2025-11-30,2026-09-10,Manaus,Basico,Headset,67.0,4,2996.3
+136,13,2025-04-09,2026-07-04,Boa Vista,Basico,Teclado,37.0,1,1858.62
+137,17,2026-02-02,2026-07-30,Belem,Intermediario,Notebook,35.0,3,3190.97
+138,177,2025-05-24,2026-07-12,Manaus,Premium,Headset,73.0,4,2727.24
+139,197,2025-07-17,2026-07-31,Boa Vista,Intermediario,Mouse,50.0,2,4549.87
+140,62,2024-12-03,2026-04-06,Santarem,Basico,Teclado,53.0,4,1531.95
+141,171,2025-08-25,2026-08-08,Belem,Basico,Notebook,38.0,5,1452.07
+142,13,2024-11-04,2026-08-17,Santarem,Intermediario,Monitor,54.0,3,2407.47
+143,190,2023-10-02,2026-06-17,Santarem,Basico,Headset,56.0,5,3948.57
+144,95,2025-10-16,2026-09-01,Manaus,Basico,Notebook,42.0,4,4778.98
+145,156,2024-12-19,2026-04-15,Manaus,Basico,Notebook,72.0,5,559.86
+146,59,2026-02-26,2026-09-22,Belem,Intermediario,Notebook,75.0,3,2604.63
+147,159,2025-06-21,2026-09-23,Macapa,Premium,Notebook,54.0,2,349.62
+148,180,2024-07-01,2026-07-12,Belem,Premium,Mouse,46.0,2,2112.22
+149,31,2026-04-03,2026-08-10,Macapa,Intermediario,Headset,27.0,1,2565.43
+150,55,2025-01-09,2026-09-26,Belem,Intermediario,Teclado,49.0,4,4213.96
+151,106,2025-08-08,2026-08-21,Belem,Intermediario,Mouse,71.0,3,3432.13
+152,67,2025-09-07,2026-05-20,Belem,Basico,Headset,45.0,1,2330.81
+153,173,2024-06-19,2026-08-28,Macapa,Intermediario,Notebook,36.0,1,4598.17
+154,18,2026-03-27,2026-04-16,Macapa,Premium,Notebook,26.0,1,3119.74
+155,96,2025-08-25,2026-09-15,Manaus,Basico,Teclado,57.0,5,73.47
+156,57,2024-02-09,2026-06-27,Santarem,Intermediario,Notebook,70.0,4,4284.68
+157,59,2025-08-14,2026-08-18,Boa Vista,Intermediario,Teclado,74.0,4,4924.02
+158,16,2025-05-07,2026-05-22,Boa Vista,Basico,Mouse,49.0,4,3023.63
+159,60,2025-09-17,2026-06-30,Manaus,Intermediario,Mouse,65.0,1,197.68
+160,148,2025-05-21,2026-07-24,Macapa,Premium,Notebook,56.0,4,3555.05
+161,61,2024-05-25,2026-05-05,Belem,Basico,Headset,26.0,3,673.83
+162,156,2025-11-23,2026-06-02,Santarem,Basico,Notebook,64.0,3,4959.28
+163,53,2026-04-01,2026-04-17,Macapa,Intermediario,Headset,51.0,3,678.2
+164,115,2023-12-31,2026-09-15,Boa Vista,Intermediario,Teclado,27.0,4,1402.28
+165,145,2026-02-17,2026-07-13,Manaus,Basico,Mouse,37.0,4,4189.41
+166,38,2026-03-19,2026-09-22,Manaus,Basico,Mouse,67.0,5,1305.64
+167,124,2024-09-20,2026-08-29,Manaus,Intermediario,Mouse,61.0,4,3642.56
+168,153,2024-10-30,2026-08-14,Santarem,Premium,Headset,26.0,3,2597.19
+169,189,2026-03-24,2026-09-25,Santarem,Intermediario,Teclado,42.0,3,515.66
+170,155,2024-01-07,2026-06-05,Belem,Basico,Monitor,45.0,1,4809.67
+171,54,2025-10-22,2026-05-31,Macapa,Premium,Headset,75.0,5,1100.13
+172,69,2025-01-27,2026-04-25,Santarem,Intermediario,Headset,55.0,2,2609.25
+173,18,2024-05-22,2026-06-05,Santarem,Intermediario,Monitor,73.0,3,567.84
+174,156,2023-12-25,2026-05-28,Boa Vista,Premium,Monitor,47.0,1,1061.77
+175,87,2024-05-20,2026-07-11,Macapa,Basico,Headset,75.0,2,3610.6
+176,187,2024-01-09,2026-06-10,Belem,Intermediario,Mouse,38.0,4,2925.9
+177,77,2025-03-24,2026-09-30,Santarem,Intermediario,Headset,47.0,3,1023.87
+178,68,2025-04-22,2026-07-28,Belem,Premium,Notebook,37.0,1,3438.58
+179,10,2025-05-27,2026-09-27,Boa Vista,Premium,Mouse,29.0,1,3779.85
+180,117,2024-01-15,2026-07-31,Belem,Intermediario,Mouse,74.0,1,2633.96
+181,12,2025-01-29,2026-07-11,Belem,Basico,Notebook,18.0,3,4798.7
+182,49,2024-08-12,2026-06-02,Manaus,Premium,Notebook,31.0,2,1509.13
+183,63,2024-05-01,2026-08-08,Boa Vista,Premium,Headset,24.0,5,4912.72
+184,71,2023-11-10,2026-06-17,Macapa,Intermediario,Notebook,72.0,2,2786.85
+185,86,2026-01-05,2026-05-07,Boa Vista,Premium,Monitor,41.0,3,868.29
+186,17,2025-08-15,2026-07-11,Macapa,Basico,Headset,39.0,3,3688.89
+187,148,2025-07-06,2026-05-01,Belem,Premium,Teclado,24.0,4,3873.15
+188,9,2025-09-26,2026-06-14,Boa Vista,Intermediario,Notebook,31.0,5,546.96
+189,77,2025-08-04,2026-08-30,Boa Vista,Intermediario,Notebook,55.0,3,2276.8
+190,38,2025-08-22,2026-04-25,Santarem,Basico,Headset,51.0,5,1729.64
+191,107,2024-12-02,2026-05-24,Belem,Basico,Mouse,35.0,1,4703.09
+192,15,2024-01-09,2026-10-01,Santarem,Basico,Teclado,34.0,3,2672.24
+193,79,2024-11-27,2026-05-05,Manaus,Intermediario,Notebook,38.0,1,4763.64
+194,18,2025-01-16,2026-05-03,Boa Vista,Basico,Notebook,39.0,3,1078.2
+195,33,2025-08-15,2026-04-26,Macapa,Intermediario,Notebook,27.0,5,1641.59
+196,184,2024-09-22,2026-09-19,Manaus,Premium,Teclado,48.0,3,976.83
+197,168,2023-10-08,2026-09-06,Boa Vista,Premium,Monitor,39.0,3,806.74
+198,166,2023-12-09,2026-05-31,Belem,Intermediario,Notebook,72.0,2,3982.56
+199,132,2024-09-09,2026-09-22,Santarem,Intermediario,Monitor,65.0,2,4622.73
+200,107,2025-02-26,2026-08-11,Santarem,Premium,Notebook,50.0,5,1440.44
+201,176,2026-02-06,2026-07-22,Manaus,Premium,Notebook,43.0,1,3179.8
+202,100,2025-04-08,2026-09-04,Boa Vista,Intermediario,Mouse,42.0,4,2332.44
+203,61,2024-08-05,2026-06-04,Manaus,Basico,Teclado,53.0,5,1746.43
+204,112,2025-10-23,2026-09-15,Santarem,Premium,Headset,51.0,1,2275.68
+205,58,2024-01-04,2026-05-19,Santarem,Basico,Headset,44.0,3,3316.98
+206,35,2025-06-30,2026-07-28,Boa Vista,Premium,Mouse,60.0,4,2045.54
+207,179,2024-11-04,2026-09-04,Santarem,Intermediario,Teclado,60.0,5,2125.54
+208,38,2024-08-17,2026-07-21,Belem,Premium,Teclado,44.0,3,672.74
+209,166,2026-01-10,2026-08-04,Santarem,Basico,Monitor,60.0,4,147.84
+210,178,2025-06-08,2026-05-09,Macapa,Basico,Monitor,72.0,5,1271.07
+211,183,2024-07-29,2026-08-31,Macapa,Premium,Mouse,62.0,1,1453.43
+212,57,2024-07-23,2026-04-19,Boa Vista,Premium,Mouse,73.0,3,3521.89
+213,154,2023-11-10,2026-06-18,Santarem,Premium,Mouse,35.0,4,1636.43
+214,144,2023-10-19,2026-06-29,Belem,Intermediario,Monitor,49.0,1,2030.3
+215,141,2024-01-20,2026-04-10,Santarem,Intermediario,Teclado,28.0,5,4277.22
+216,66,2025-06-12,2026-04-29,Manaus,Premium,Teclado,43.0,4,1703.85
+217,162,2025-08-23,2026-07-21,Boa Vista,Premium,Headset,36.0,5,4892.11
+218,5,2024-05-19,2026-04-04,Santarem,Basico,Monitor,24.0,3,2309.44
+219,140,2025-08-26,2026-06-14,Santarem,Intermediario,Mouse,35.0,2,2950.51
+220,73,2025-03-23,2026-08-11,Belem,Intermediario,Headset,34.0,5,880.11
+221,74,2026-03-29,2026-09-24,Belem,Intermediario,Monitor,25.0,5,734.73
+222,140,2024-04-22,2026-06-14,Macapa,Basico,Mouse,44.0,5,1003.32
+223,190,2025-11-14,2026-09-27,Manaus,Intermediario,Monitor,68.0,5,4905.06
+224,127,2026-01-30,2026-04-15,Macapa,Intermediario,Monitor,32.0,2,4430.0
+225,45,2024-08-02,2026-07-12,Macapa,Premium,Headset,51.0,1,2146.3
+226,102,2024-11-12,2026-08-18,Manaus,Basico,Monitor,64.0,4,4960.61
+227,5,2023-09-28,2026-09-26,Manaus,Basico,Notebook,57.0,4,4884.49
+228,65,2025-06-16,2026-08-09,Manaus,Basico,Teclado,30.0,1,3377.71
+229,153,2025-05-14,2026-08-04,Santarem,Premium,Headset,70.0,5,2112.5
+230,79,2025-06-13,2026-08-20,Santarem,Premium,Headset,27.0,3,4470.5
+231,54,2025-11-23,2026-06-20,Boa Vista,Premium,Notebook,36.0,1,2692.51
+232,57,2026-02-01,2026-07-01,Macapa,Basico,Notebook,23.0,3,3884.39
+233,20,2026-03-03,2026-08-01,Santarem,Premium,Headset,37.0,1,776.98
+234,14,2024-02-03,2026-08-14,Boa Vista,Intermediario,Teclado,44.0,5,509.14
+235,85,2025-04-07,2026-06-25,Santarem,Intermediario,Mouse,36.0,4,2545.68
+236,108,2024-05-14,2026-05-25,Manaus,Basico,Mouse,41.0,2,1081.48
+237,130,2024-05-13,2026-04-10,Macapa,Premium,Notebook,37.0,1,917.97
+238,9,2024-03-08,2026-09-20,Belem,Premium,Headset,67.0,1,3285.02
+239,36,2025-02-16,2026-04-18,Belem,Basico,Headset,73.0,5,4370.65
+240,91,2025-10-10,2026-06-12,Belem,Intermediario,Monitor,72.0,2,3686.89
+241,2,2024-10-30,2026-05-19,Manaus,Intermediario,Headset,39.0,4,181.56
+242,107,2026-02-18,2026-04-16,Santarem,Intermediario,Teclado,53.0,2,2122.35
+243,52,2024-05-07,2026-09-13,Boa Vista,Intermediario,Teclado,27.0,2,1389.95
+244,27,2024-12-10,2026-09-02,Belem,Intermediario,Teclado,55.0,4,377.09
+245,73,2026-04-04,2026-09-30,Belem,Intermediario,Headset,62.0,4,901.2
+246,168,2024-01-06,2026-09-14,Manaus,Premium,Teclado,66.0,5,344.46
+247,69,2025-09-19,2026-07-08,Manaus,Intermediario,Notebook,35.0,4,1109.76
+248,179,2026-01-03,2026-07-18,Belem,Basico,Teclado,48.0,1,716.73
+249,131,2024-02-03,2026-08-30,Belem,Intermediario,Mouse,32.0,1,1818.98
+250,69,2025-08-04,2026-04-16,Santarem,Intermediario,Mouse,64.0,5,4651.85
+251,140,2026-01-03,2026-05-18,Macapa,Basico,Notebook,44.0,4,653.75
+252,40,2024-02-10,2026-04-10,Santarem,Basico,Headset,58.0,3,4983.55
+253,89,2026-02-23,2026-08-24,Manaus,Basico,Mouse,45.0,5,2905.46
+254,184,2024-03-24,2026-04-17,Macapa,Premium,Headset,36.0,3,2493.68
+255,58,2023-10-24,2026-04-11,Belem,Premium,Mouse,64.0,3,683.86
+256,131,2025-06-13,2026-08-23,Macapa,Premium,Notebook,64.0,5,2967.19
+257,116,2025-05-10,2026-06-03,Manaus,Intermediario,Teclado,64.0,4,4637.51
+258,161,2023-11-28,2026-05-22,Belem,Premium,Mouse,33.0,3,2861.27
+259,77,2025-02-04,2026-08-10,Santarem,Intermediario,Teclado,39.0,2,1761.37
+260,15,2025-04-21,2026-06-27,Macapa,Basico,Notebook,47.0,4,1976.03
+261,173,2025-09-19,2026-05-13,Manaus,Premium,Monitor,48.0,2,4142.61
+262,195,2023-12-03,2026-08-30,Manaus,Basico,Monitor,75.0,1,4730.32
+263,170,2025-04-08,2026-09-13,Boa Vista,Premium,Teclado,74.0,1,240.78
+264,188,2024-07-18,2026-04-19,Manaus,Basico,Notebook,37.0,4,4268.12
+265,48,2025-01-03,2026-08-26,Manaus,Intermediario,Notebook,50.0,4,1687.04
+266,177,2024-01-17,2026-04-06,Belem,Premium,Teclado,21.0,2,844.91
+267,87,2024-04-22,2026-09-04,Manaus,Basico,Teclado,31.0,5,4819.72
+268,159,2024-02-07,2026-04-30,Macapa,Premium,Teclado,73.0,5,1903.6
+269,24,2026-01-01,2026-07-23,Boa Vista,Intermediario,Teclado,32.0,3,4911.61
+270,146,2024-09-23,2026-04-20,Manaus,Premium,Mouse,25.0,3,636.08
+271,177,2024-04-03,2026-08-22,Boa Vista,Basico,Mouse,58.0,2,4377.95
+272,14,2026-03-13,2026-04-14,Manaus,Intermediario,Teclado,43.0,4,858.79
+273,126,2024-07-29,2026-09-11,Belem,Premium,Monitor,25.0,1,2335.55
+274,193,2024-12-10,2026-04-16,Belem,Intermediario,Notebook,51.0,1,1753.5
+275,38,2026-01-05,2026-07-01,Boa Vista,Basico,Teclado,31.0,5,4873.36
+276,50,2026-01-20,2026-06-18,Santarem,Premium,Headset,69.0,4,2173.68
+277,27,2025-03-04,2026-07-28,Macapa,Basico,Teclado,39.0,5,4795.6
+278,133,2026-02-26,2026-08-26,Santarem,Intermediario,Mouse,48.0,5,273.32
+279,63,2023-11-25,2026-05-17,Boa Vista,Premium,Notebook,34.0,1,4181.8
+280,188,2025-11-12,2026-05-24,Manaus,Basico,Headset,68.0,3,2016.3
+281,159,2025-02-19,2026-04-05,Macapa,Basico,Headset,34.0,2,987.35
+282,103,2025-07-15,2026-08-27,Boa Vista,Basico,Notebook,57.0,5,3553.83
+283,109,2024-03-02,2026-09-09,Boa Vista,Intermediario,Headset,38.0,5,678.33
+284,185,2024-04-02,2026-08-08,Manaus,Intermediario,Teclado,73.0,5,4860.43
+285,88,2024-06-25,2026-05-16,Manaus,Intermediario,Teclado,68.0,2,1839.92
+286,39,2025-04-09,2026-09-11,Macapa,Premium,Notebook,50.0,4,2258.06
+287,39,2023-11-30,2026-05-03,Santarem,Basico,Notebook,36.0,1,1068.81
+288,57,2023-10-20,2026-05-06,Belem,Intermediario,Teclado,56.0,5,4887.1
+289,9,2025-08-30,2026-06-22,Macapa,Intermediario,Notebook,72.0,1,1015.86
+290,30,2024-10-28,2026-07-28,Boa Vista,Basico,Teclado,56.0,4,1049.24
+291,102,2024-03-29,2026-04-28,Santarem,Intermediario,Headset,54.0,5,1772.11
+292,23,2026-01-11,2026-07-08,Belem,Intermediario,Teclado,54.0,5,1922.63
+293,66,2024-04-25,2026-09-09,Manaus,Intermediario,Notebook,53.0,2,3283.3
+294,35,2024-07-24,2026-09-02,Manaus,Premium,Mouse,62.0,4,885.92
+295,144,2023-11-25,2026-05-16,Macapa,Premium,Notebook,52.0,3,2621.77
+296,7,2024-12-23,2026-04-15,Manaus,Basico,Headset,23.0,3,2415.84
+297,185,2025-03-12,2026-04-08,Macapa,Premium,Teclado,31.0,2,3206.16
+298,123,2026-02-17,2026-06-15,Boa Vista,Basico,Teclado,46.0,5,2404.03
+299,144,2026-02-08,2026-05-10,Boa Vista,Premium,Monitor,61.0,4,2169.44
+300,92,2024-08-26,2026-08-28,Boa Vista,Premium,Monitor,35.0,2,3329.52
+301,156,2024-07-25,2026-04-16,Boa Vista,Premium,Mouse,52.0,3,4070.01
+302,74,2024-12-25,2026-09-23,Santarem,Intermediario,Teclado,48.0,2,3738.76
+303,70,2025-12-05,2026-07-23,Macapa,Intermediario,Monitor,24.0,4,4478.71
+304,147,2025-07-28,2026-06-22,Macapa,Basico,Headset,64.0,1,1028.45
+305,80,2025-07-10,2026-08-03,Manaus,Basico,Headset,60.0,4,3555.38
+306,168,2025-10-25,2026-05-19,Belem,Premium,Teclado,64.0,1,1403.48
+307,50,2025-06-25,2026-07-24,Macapa,Premium,Teclado,66.0,4,396.16
+308,85,2025-01-17,2026-08-19,Santarem,Intermediario,Monitor,24.0,5,2268.79
+309,88,2024-03-11,2026-08-12,Belem,Intermediario,Mouse,28.0,1,2364.05
+310,69,2025-04-09,2026-05-24,Belem,Premium,Monitor,28.0,2,1400.38
+311,74,2025-12-05,2026-09-29,Manaus,Premium,Mouse,67.0,2,1218.19
+312,108,2024-05-02,2026-09-21,Boa Vista,Intermediario,Teclado,54.0,4,4342.5
+313,125,2023-09-29,2026-07-08,Santarem,Intermediario,Headset,66.0,5,3967.68
+314,72,2025-02-04,2026-05-17,Macapa,Premium,Notebook,51.0,3,2496.86
+315,99,2025-03-26,2026-07-12,Manaus,Premium,Teclado,55.0,5,587.85
+316,143,2025-09-09,2026-08-27,Santarem,Basico,Headset,62.0,5,4370.91
+317,24,2024-01-07,2026-09-02,Belem,Basico,Teclado,61.0,2,3051.18
+318,126,2023-11-23,2026-07-15,Belem,Premium,Teclado,53.0,2,890.51
+319,45,2025-10-07,2026-05-19,Macapa,Intermediario,Headset,62.0,3,4178.9
+320,1,2024-07-17,2026-06-02,Macapa,Premium,Notebook,31.0,5,1360.32
+321,185,2023-12-16,2026-05-15,Macapa,Basico,Monitor,75.0,5,1214.52
+322,193,2025-07-24,2026-08-01,Boa Vista,Intermediario,Mouse,18.0,3,2190.95
+323,140,2025-08-15,2026-05-14,Santarem,Intermediario,Monitor,51.0,2,4183.87
+324,169,2025-09-20,2026-06-01,Macapa,Intermediario,Teclado,39.0,5,241.29
+325,42,2025-09-25,2026-04-22,Manaus,Premium,Headset,62.0,1,2006.41
+326,68,2024-05-17,2026-09-03,Belem,Basico,Notebook,28.0,1,2079.74
+327,88,2025-01-18,2026-05-20,Boa Vista,Intermediario,Monitor,60.0,4,4915.79
+328,33,2025-03-22,2026-06-05,Manaus,Basico,Headset,22.0,2,3662.59
+329,18,2024-05-10,2026-04-09,Macapa,Intermediario,Teclado,25.0,2,967.61
+330,81,2025-02-02,2026-08-19,Belem,Basico,Monitor,30.0,5,4023.47
+331,128,2025-08-03,2026-06-15,Belem,Basico,Mouse,33.0,1,4721.8
+332,103,2025-03-31,2026-04-16,Belem,Intermediario,Headset,54.0,2,223.83
+333,18,2025-11-07,2026-05-12,Santarem,Intermediario,Monitor,27.0,2,4591.11
+334,123,2024-02-12,2026-08-18,Boa Vista,Basico,Mouse,48.0,1,4343.75
+335,109,2025-06-27,2026-09-14,Santarem,Intermediario,Monitor,52.0,1,3915.15
+336,32,2023-11-23,2026-09-12,Santarem,Premium,Teclado,21.0,5,2660.92
+337,197,2024-05-19,2026-09-23,Boa Vista,Basico,Monitor,54.0,2,633.33
+338,198,2025-08-28,2026-08-07,Manaus,Premium,Teclado,47.0,3,2005.75
+339,167,2024-04-11,2026-04-11,Boa Vista,Premium,Mouse,62.0,4,3405.96
+340,51,2024-12-09,2026-05-10,Macapa,Intermediario,Monitor,44.0,5,3623.09
+341,163,2023-12-12,2026-09-03,Boa Vista,Intermediario,Mouse,38.0,4,2395.97
+342,15,2023-10-10,2026-08-22,Macapa,Intermediario,Teclado,53.0,5,1456.05
+343,104,2024-04-10,2026-06-15,Belem,Intermediario,Headset,45.0,5,1541.54
+344,50,2024-04-26,2026-08-25,Belem,Basico,Monitor,35.0,4,4156.5
+345,190,2026-03-13,2026-07-11,Belem,Premium,Monitor,36.0,3,2503.25
+346,95,2026-02-13,2026-07-12,Belem,Premium,Headset,61.0,1,2012.36
+347,84,2023-11-17,2026-04-28,Macapa,Intermediario,Monitor,49.0,2,4339.71
+348,45,2024-05-18,2026-05-22,Boa Vista,Basico,Mouse,49.0,3,3907.39
+349,160,2025-08-21,2026-05-11,Belem,Intermediario,Notebook,37.0,5,3564.58
+350,22,2024-08-28,2026-07-26,Santarem,Premium,Teclado,23.0,3,2275.18
+351,13,2024-08-23,2026-08-06,Belem,Basico,Headset,66.0,5,1780.34
+352,195,2024-10-19,2026-09-08,Macapa,Basico,Headset,27.0,5,4613.39
+353,166,2025-06-03,2026-05-05,Macapa,Basico,Mouse,25.0,1,644.55
+354,77,2026-01-29,2026-09-20,Boa Vista,Basico,Notebook,19.0,1,4144.91
+355,147,2024-10-18,2026-09-16,Santarem,Basico,Monitor,41.0,5,3210.41
+356,88,2024-12-10,2026-04-15,Santarem,Intermediario,Teclado,58.0,2,2364.88
+357,14,2025-10-30,2026-07-17,Santarem,Premium,Mouse,42.0,1,1269.44
+358,160,2024-02-20,2026-05-30,Belem,Premium,Monitor,55.0,5,434.84
+359,177,2024-05-01,2026-08-25,Belem,Premium,Mouse,44.0,4,4553.49
+360,23,2025-07-07,2026-04-06,Manaus,Basico,Mouse,37.0,3,3128.22
+361,90,2024-09-20,2026-09-03,Santarem,Premium,Notebook,36.0,4,3390.01
+362,112,2024-07-16,2026-06-13,Macapa,Premium,Teclado,20.0,3,479.22
+363,200,2025-09-12,2026-08-03,Manaus,Premium,Monitor,62.0,2,4157.26
+364,93,2024-11-18,2026-09-25,Santarem,Premium,Teclado,49.0,3,3117.61
+365,145,2023-12-03,2026-04-16,Manaus,Premium,Teclado,55.0,4,3700.7
+366,25,2026-01-28,2026-07-19,Manaus,Premium,Teclado,47.0,5,2492.86
+367,112,2025-01-29,2026-04-09,Boa Vista,Intermediario,Teclado,52.0,1,1123.73
+368,29,2026-01-07,2026-06-17,Macapa,Intermediario,Teclado,39.0,4,3680.66
+369,142,2026-03-06,2026-08-23,Manaus,Premium,Notebook,24.0,5,878.46
+370,81,2024-09-05,2026-08-27,Belem,Intermediario,Monitor,35.0,3,3810.23
+371,31,2025-09-04,2026-08-17,Boa Vista,Premium,Teclado,27.0,4,4256.16
+372,72,2023-09-29,2026-05-08,Belem,Premium,Mouse,38.0,2,1351.21
+373,128,2024-10-16,2026-05-19,Boa Vista,Basico,Headset,24.0,3,3213.18
+374,145,2024-02-03,2026-07-21,Boa Vista,Basico,Mouse,39.0,3,4172.54
+375,45,2025-06-30,2026-04-15,Manaus,Basico,Headset,44.0,5,4535.23
+376,117,2024-03-31,2026-04-11,Belem,Basico,Mouse,54.0,3,2825.85
+377,35,2024-12-25,2026-06-19,Santarem,Intermediario,Teclado,57.0,4,1701.07
+378,85,2025-06-04,2026-06-28,Macapa,Intermediario,Notebook,48.0,5,2259.1
+379,12,2025-09-07,2026-09-13,Santarem,Premium,Teclado,28.0,1,1615.99
+380,23,2025-10-24,2026-08-16,Santarem,Premium,Mouse,57.0,1,321.93
+381,185,2024-10-16,2026-05-09,Macapa,Basico,Headset,23.0,1,3052.5
+382,46,2025-02-19,2026-06-01,Manaus,Intermediario,Notebook,44.0,5,4470.61
+383,26,2026-03-25,2026-06-24,Macapa,Intermediario,Headset,37.0,3,792.7
+384,180,2025-09-30,2026-05-08,Santarem,Basico,Monitor,29.0,3,4768.08
+385,175,2025-01-05,2026-06-22,Belem,Premium,Teclado,62.0,2,1160.86
+386,147,2026-02-21,2026-09-13,Belem,Intermediario,Monitor,38.0,1,2223.93
+387,109,2024-08-20,2026-08-18,Santarem,Intermediario,Monitor,48.0,5,3572.94
+388,10,2025-12-31,2026-04-28,Manaus,Intermediario,Monitor,58.0,2,260.63
+389,173,2025-09-11,2026-06-19,Manaus,Basico,Teclado,22.0,1,4130.86
+390,114,2023-12-05,2026-07-15,Belem,Intermediario,Headset,48.0,1,4628.56
+391,104,2023-11-11,2026-07-01,Macapa,Premium,Monitor,59.0,5,4534.22
+392,47,2023-10-24,2026-08-28,Manaus,Premium,Notebook,21.0,5,3088.45
+393,188,2024-09-16,2026-07-06,Manaus,Intermediario,Teclado,47.0,1,3711.86
+394,142,2026-01-25,2026-05-27,Santarem,Basico,Headset,48.0,3,2573.66
+395,109,2025-06-21,2026-04-17,Boa Vista,Basico,Monitor,19.0,2,915.3
+396,76,2025-09-14,2026-05-23,Manaus,Intermediario,Headset,48.0,4,1115.46
+397,190,2024-02-04,2026-06-05,Belem,Basico,Headset,63.0,2,3112.37
+398,96,2023-12-04,2026-09-09,Belem,Basico,Monitor,55.0,5,795.46
+399,91,2026-01-13,2026-06-02,Santarem,Premium,Mouse,35.0,1,2402.76
+400,151,2024-05-11,2026-09-06,Belem,Intermediario,Mouse,19.0,5,2624.36
+401,64,2024-02-19,2026-09-25,Manaus,Premium,Headset,32.0,4,623.7
+402,71,2024-01-11,2026-05-30,Manaus,Basico,Notebook,33.0,1,3453.29
+403,27,2026-02-20,2026-06-25,Belem,Intermediario,Notebook,30.0,3,2101.05
+404,109,2024-12-10,2026-08-14,Belem,Intermediario,Notebook,57.0,4,1899.9
+405,66,2024-08-13,2026-05-17,Macapa,Intermediario,Notebook,44.0,2,2309.91
+406,65,2025-04-07,2026-05-16,Boa Vista,Basico,Mouse,67.0,3,2987.9
+407,29,2026-03-15,2026-06-09,Manaus,Premium,Mouse,67.0,3,546.42
+408,20,2024-04-14,2026-05-04,Boa Vista,Basico,Notebook,74.0,4,3831.03
+409,181,2025-07-16,2026-05-15,Santarem,Intermediario,Monitor,33.0,5,4905.97
+410,148,2026-02-25,2026-07-27,Manaus,Premium,Teclado,49.0,1,1714.61
+411,19,2023-10-09,2026-08-28,Macapa,Basico,Teclado,23.0,5,1653.31
+412,1,2025-01-18,2026-09-04,Boa Vista,Basico,Teclado,19.0,1,306.02
+413,146,2023-11-17,2026-04-06,Belem,Premium,Teclado,20.0,1,2147.09
+414,2,2023-12-01,2026-05-22,Manaus,Premium,Headset,74.0,2,2547.5
+415,146,2024-02-04,2026-09-02,Manaus,Basico,Mouse,41.0,5,1979.95
+416,66,2024-12-02,2026-04-19,Boa Vista,Basico,Notebook,58.0,2,203.79
+417,81,2025-04-09,2026-06-22,Belem,Premium,Monitor,44.0,1,3390.32
+418,75,2025-08-05,2026-07-02,Belem,Intermediario,Mouse,35.0,4,2359.22
+419,131,2025-05-07,2026-09-13,Boa Vista,Basico,Teclado,33.0,2,4505.45
+420,86,2025-05-24,2026-05-20,Macapa,Intermediario,Teclado,50.0,1,1230.41
+421,136,2024-05-17,2026-07-31,Macapa,Basico,Headset,70.0,5,3052.33
+422,31,2024-06-20,2026-07-18,Santarem,Premium,Headset,46.0,2,856.14
+423,23,2024-12-13,2026-05-05,Manaus,Premium,Notebook,44.0,4,119.92
+424,15,2023-12-03,2026-06-14,Belem,Basico,Notebook,72.0,1,1239.23
+425,68,2025-07-27,2026-05-05,Macapa,Intermediario,Mouse,33.0,1,1924.17
+426,84,2025-04-15,2026-04-07,Belem,Intermediario,Mouse,36.0,1,174.76
+427,46,2025-10-01,2026-08-10,Santarem,Intermediario,Headset,38.0,5,2545.89
+428,160,2024-12-01,2026-04-16,Belem,Basico,Monitor,21.0,4,4229.15
+429,96,2024-01-02,2026-09-01,Manaus,Basico,Monitor,59.0,5,1576.88
+430,14,2023-12-02,2026-07-04,Macapa,Premium,Headset,43.0,4,511.69
+431,56,2024-08-09,2026-09-07,Macapa,Premium,Monitor,60.0,4,3031.93
+432,104,2024-02-06,2026-07-31,Macapa,Premium,Mouse,74.0,3,260.17
+433,132,2025-02-16,2026-07-10,Belem,Premium,Mouse,67.0,3,4403.09
+434,38,2025-07-30,2026-04-29,Boa Vista,Premium,Teclado,61.0,2,2537.43
+435,11,2025-03-16,2026-07-09,Belem,Intermediario,Teclado,20.0,1,1792.05
+436,122,2024-10-31,2026-06-24,Manaus,Intermediario,Headset,73.0,2,4850.37
+437,2,2024-04-13,2026-07-04,Boa Vista,Intermediario,Headset,27.0,1,2655.98
+438,112,2025-10-30,2026-08-21,Boa Vista,Basico,Teclado,36.0,2,4651.51
+439,189,2025-12-20,2026-07-30,Manaus,Intermediario,Monitor,33.0,1,3009.39
+440,37,2024-03-15,2026-09-29,Macapa,Intermediario,Teclado,35.0,2,3331.48
+441,76,2025-12-16,2026-07-21,Boa Vista,Basico,Headset,33.0,1,1650.17
+442,25,2024-10-11,2026-08-02,Santarem,Intermediario,Teclado,45.0,1,565.55
+443,145,2023-09-28,2026-05-16,Manaus,Basico,Headset,32.0,3,4615.67
+444,185,2026-01-14,2026-04-22,Macapa,Intermediario,Headset,55.0,5,1607.85
+445,66,2025-05-13,2026-05-31,Manaus,Premium,Teclado,35.0,1,4496.96
+446,172,2025-08-14,2026-07-07,Santarem,Intermediario,Notebook,52.0,1,3285.97
+447,21,2025-05-28,2026-06-17,Santarem,Intermediario,Notebook,64.0,5,3755.15
+448,81,2024-01-19,2026-07-05,Macapa,Premium,Mouse,72.0,2,2709.0
+449,94,2025-07-05,2026-05-03,Macapa,Intermediario,Mouse,49.0,2,1960.31
+450,38,2025-10-05,2026-05-28,Belem,Basico,Monitor,37.0,2,1759.65
+451,139,2024-11-29,2026-04-04,Santarem,Basico,Mouse,34.0,3,4832.7
+452,60,2024-12-10,2026-09-09,Boa Vista,Premium,Monitor,38.0,1,2174.04
+453,199,2024-07-01,2026-06-26,Boa Vista,Premium,Teclado,19.0,1,2831.95
+454,7,2025-12-09,2026-05-27,Santarem,Basico,Teclado,22.0,4,4353.34
+455,120,2024-09-03,2026-04-17,Santarem,Intermediario,Monitor,52.0,5,4351.82
+456,9,2026-03-02,2026-09-14,Manaus,Premium,Mouse,27.0,5,3259.57
+457,98,2025-03-14,2026-09-28,Macapa,Premium,Mouse,58.0,4,1061.58
+458,139,2026-01-08,2026-07-04,Boa Vista,Premium,Monitor,22.0,1,1496.94
+459,39,2023-10-23,2026-09-02,Santarem,Intermediario,Monitor,30.0,2,1530.67
+460,139,2026-02-27,2026-09-18,Santarem,Intermediario,Notebook,70.0,1,3661.0
+461,198,2023-11-14,2026-08-06,Santarem,Basico,Teclado,31.0,3,2208.88
+462,19,2025-06-10,2026-05-12,Manaus,Intermediario,Teclado,34.0,3,4495.69
+463,124,2023-10-02,2026-05-05,Macapa,Intermediario,Mouse,18.0,1,1793.0
+464,30,2025-07-14,2026-08-13,Macapa,Basico,Monitor,65.0,3,4600.27
+465,169,2026-03-06,2026-04-12,Macapa,Basico,Teclado,61.0,1,1350.51
+466,80,2023-10-10,2026-08-03,Belem,Basico,Notebook,25.0,3,2515.09
+467,167,2024-10-17,2026-09-03,Belem,Basico,Headset,35.0,1,2170.54
+468,20,2024-07-09,2026-08-24,Boa Vista,Premium,Mouse,50.0,3,392.24
+469,65,2025-10-30,2026-05-28,Macapa,Intermediario,Monitor,73.0,2,3632.54
+470,1,2026-02-02,2026-04-05,Boa Vista,Premium,Headset,22.0,1,167.59
+471,178,2026-02-12,2026-06-25,Boa Vista,Premium,Mouse,45.0,3,2159.91
+472,58,2024-04-03,2026-04-24,Manaus,Basico,Teclado,69.0,5,793.14
+473,115,2024-03-01,2026-04-13,Macapa,Basico,Teclado,23.0,5,3342.81
+474,184,2024-07-13,2026-05-16,Belem,Premium,Teclado,21.0,2,2631.14
+475,53,2025-02-03,2026-07-16,Belem,Premium,Mouse,62.0,2,1856.98
+476,9,2025-11-18,2026-05-09,Boa Vista,Basico,Monitor,51.0,1,3484.6
+477,194,2024-02-15,2026-09-14,Belem,Intermediario,Notebook,51.0,1,283.89
+478,60,2024-05-03,2026-08-30,Boa Vista,Basico,Notebook,37.0,4,405.72
+479,170,2024-10-07,2026-07-31,Santarem,Premium,Mouse,50.0,1,2996.19
+480,40,2023-10-06,2026-04-09,Belem,Intermediario,Notebook,47.0,1,2798.52
+481,123,2024-10-03,2026-08-22,Santarem,Premium,Monitor,45.0,5,4038.57
+482,41,2025-08-20,2026-06-28,Manaus,Premium,Mouse,68.0,2,4663.12
+483,108,2024-07-16,2026-04-20,Boa Vista,Intermediario,Teclado,29.0,3,2461.22
+484,70,2025-12-27,2026-07-23,Belem,Premium,Teclado,25.0,1,4660.74
+485,153,2025-12-12,2026-09-14,Macapa,Premium,Monitor,66.0,1,4506.38
+486,186,2024-06-06,2026-09-12,Macapa,Basico,Monitor,67.0,4,3798.88
+487,12,2024-03-04,2026-04-23,Santarem,Premium,Teclado,45.0,2,3501.5
+488,39,2023-11-06,2026-09-21,Manaus,Basico,Monitor,41.0,3,3792.8
+489,77,2023-09-30,2026-07-03,Macapa,Basico,Mouse,58.0,3,2432.81
+490,168,2024-10-26,2026-09-21,Macapa,Intermediario,Teclado,67.0,3,2946.7
+491,70,2024-08-08,2026-06-11,Santarem,Basico,Monitor,34.0,4,3142.57
+492,190,2024-11-26,2026-09-27,Santarem,Premium,Notebook,24.0,2,2660.63
+493,196,2024-01-22,2026-06-23,Santarem,Basico,Notebook,41.0,3,1147.6
+494,3,2024-05-29,2026-04-22,Boa Vista,Intermediario,Teclado,73.0,3,1726.03
+495,146,2025-02-18,2026-05-03,Boa Vista,Basico,Monitor,39.0,3,1872.75
+496,67,2026-02-17,2026-05-13,Macapa,Intermediario,Notebook,27.0,2,4723.51
+497,77,2024-12-26,2026-04-06,Belem,Premium,Notebook,31.0,2,4087.87
+498,172,2025-04-17,2026-05-03,Santarem,Premium,Headset,51.0,1,3062.87
+499,181,2023-11-04,2026-08-29,Manaus,Basico,Notebook,74.0,5,4424.15
+500,130,2024-12-10,2026-04-05,Manaus,Intermediario,Mouse,61.0,5,2518.07
+501,40,2026-03-04,2026-06-10,Santarem,Premium,Headset,46.0,5,1422.13
+502,170,2026-02-14,2026-06-15,Boa Vista,Intermediario,Headset,21.0,3,3229.47
+503,177,2025-02-03,2026-05-31,Manaus,Premium,Notebook,32.0,1,1202.02
+504,64,2024-02-25,2026-07-28,Macapa,Basico,Mouse,71.0,3,1114.9
+505,71,2025-11-05,2026-07-21,Manaus,Premium,Mouse,62.0,4,4565.42
+506,87,2025-11-17,2026-04-10,Boa Vista,Basico,Headset,72.0,5,3174.87
+507,108,2024-09-11,2026-06-12,Santarem,Intermediario,Monitor,48.0,1,4792.56
+508,182,2024-10-13,2026-08-31,Santarem,Basico,Mouse,37.0,1,2573.19
+509,64,2024-12-24,2026-10-01,Manaus,Intermediario,Mouse,66.0,2,2661.35
+510,178,2025-04-24,2026-09-23,Boa Vista,Intermediario,Notebook,53.0,2,1505.1
+511,111,2024-11-21,2026-08-19,Manaus,Basico,Monitor,61.0,5,1461.84
+512,110,2024-07-06,2026-04-05,Macapa,Basico,Mouse,32.0,3,203.42
+513,164,2024-09-13,2026-06-12,Santarem,Basico,Monitor,32.0,3,3039.53
+514,65,2025-04-05,2026-07-07,Macapa,Premium,Notebook,44.0,4,4978.0
+515,76,2026-03-21,2026-06-04,Manaus,Intermediario,Monitor,45.0,5,2748.76
+516,32,2024-09-11,2026-08-15,Santarem,Premium,Headset,71.0,1,4634.6
+517,77,2026-03-12,2026-08-11,Boa Vista,Intermediario,Notebook,59.0,1,69.28
+518,121,2025-02-19,2026-04-28,Belem,Basico,Notebook,29.0,3,2041.74
+519,171,2024-04-28,2026-06-08,Boa Vista,Premium,Monitor,68.0,1,1512.18
+520,147,2023-12-16,2026-07-04,Macapa,Intermediario,Teclado,72.0,5,4755.79
+521,88,2025-03-22,2026-05-03,Santarem,Intermediario,Teclado,58.0,4,206.33
+522,21,2025-11-23,2026-07-10,Santarem,Premium,Mouse,63.0,4,1788.55
+523,61,2024-01-10,2026-04-18,Boa Vista,Intermediario,Teclado,36.0,4,1392.13
+524,28,2025-01-05,2026-08-08,Macapa,Intermediario,Headset,50.0,5,4515.64
+525,71,2024-01-18,2026-04-20,Boa Vista,Intermediario,Mouse,51.0,5,2877.51
+526,30,2025-03-12,2026-05-25,Manaus,Intermediario,Mouse,21.0,2,1244.51
+527,199,2026-01-19,2026-06-17,Manaus,Premium,Headset,49.0,4,2628.83
+528,37,2025-03-06,2026-08-19,Manaus,Intermediario,Mouse,32.0,5,1032.0
+529,143,2024-06-14,2026-05-05,Santarem,Premium,Teclado,34.0,5,1490.7
+530,166,2024-01-14,2026-08-01,Santarem,Premium,Monitor,18.0,4,4239.4
+531,14,2023-10-04,2026-08-30,Manaus,Basico,Headset,40.0,4,2291.71
+532,183,2023-12-04,2026-08-25,Belem,Intermediario,Teclado,49.0,1,1167.59
+533,63,2024-02-21,2026-05-30,Belem,Premium,Mouse,50.0,2,2483.47
+534,113,2024-03-24,2026-07-23,Boa Vista,Intermediario,Notebook,60.0,3,2363.0
+535,61,2024-09-16,2026-06-21,Manaus,Basico,Mouse,46.0,3,2930.9
+536,46,2024-12-30,2026-09-09,Manaus,Premium,Headset,58.0,4,1739.82
+537,131,2024-03-29,2026-06-18,Boa Vista,Basico,Notebook,23.0,3,1462.29
+538,157,2024-05-24,2026-07-28,Belem,Premium,Monitor,27.0,2,2580.16
+539,34,2023-11-14,2026-07-23,Belem,Basico,Headset,31.0,5,4380.51
+540,36,2025-11-03,2026-05-09,Boa Vista,Intermediario,Notebook,72.0,2,4360.13
+541,171,2024-07-10,2026-06-02,Manaus,Basico,Mouse,60.0,5,3562.31
+542,5,2025-01-29,2026-07-02,Boa Vista,Basico,Mouse,38.0,1,3231.88
+543,161,2023-10-23,2026-09-18,Belem,Basico,Mouse,65.0,1,4309.79
+544,193,2025-09-08,2026-08-02,Manaus,Intermediario,Headset,41.0,1,2804.61
+545,104,2024-12-19,2026-04-18,Boa Vista,Basico,Mouse,56.0,3,881.29
+546,51,2024-05-23,2026-05-02,Santarem,Basico,Notebook,27.0,2,4469.88
+547,180,2026-04-02,2026-05-26,Belem,Basico,Teclado,19.0,2,1396.62
+548,119,2025-02-05,2026-05-10,Macapa,Basico,Teclado,32.0,4,2897.71
+549,198,2026-01-09,2026-08-08,Boa Vista,Intermediario,Notebook,30.0,4,1834.8
+550,95,2024-04-14,2026-08-30,Belem,Premium,Notebook,62.0,3,213.03
+551,190,2025-09-09,2026-09-25,Santarem,Intermediario,Headset,24.0,1,4416.28
+552,82,2024-04-01,2026-04-20,Boa Vista,Intermediario,Monitor,48.0,4,2649.21
+553,88,2024-08-12,2026-05-19,Boa Vista,Intermediario,Notebook,52.0,2,408.65
+554,119,2023-11-17,2026-07-02,Manaus,Basico,Monitor,21.0,5,4955.45
+555,57,2025-11-07,2026-08-08,Santarem,Basico,Headset,26.0,1,3782.75
+556,121,2025-05-13,2026-06-05,Santarem,Intermediario,Teclado,23.0,2,719.35
+557,96,2025-12-18,2026-05-12,Macapa,Basico,Monitor,30.0,2,1122.34
+558,153,2024-07-07,2026-08-19,Santarem,Premium,Teclado,51.0,5,1957.8
+559,108,2024-02-26,2026-05-26,Macapa,Intermediario,Monitor,30.0,5,4240.66
+560,17,2024-10-18,2026-06-28,Santarem,Premium,Mouse,48.0,4,3863.46
+561,68,2023-09-29,2026-09-30,Manaus,Intermediario,Notebook,44.0,3,639.17
+562,56,2025-08-22,2026-06-08,Belem,Intermediario,Monitor,64.0,1,870.48
+563,5,2026-02-22,2026-08-26,Boa Vista,Basico,Monitor,42.0,1,190.05
+564,96,2024-11-07,2026-06-29,Belem,Premium,Teclado,32.0,3,4620.4
+565,151,2025-07-14,2026-06-01,Santarem,Intermediario,Notebook,68.0,5,4904.75
+566,186,2024-05-25,2026-09-21,Manaus,Basico,Mouse,66.0,5,3694.95
+567,26,2025-09-12,2026-04-29,Manaus,Intermediario,Teclado,29.0,5,3435.03
+568,71,2024-08-21,2026-04-12,Santarem,Intermediario,Mouse,48.0,2,276.03
+569,39,2024-04-11,2026-07-25,Manaus,Intermediario,Teclado,62.0,2,1086.67
+570,75,2024-10-11,2026-04-24,Belem,Intermediario,Notebook,22.0,4,1913.52
+571,125,2025-04-20,2026-08-12,Manaus,Basico,Headset,41.0,2,3802.28
+572,55,2023-11-22,2026-07-10,Santarem,Premium,Teclado,29.0,4,2316.59
+573,196,2025-03-19,2026-05-31,Manaus,Basico,Mouse,48.0,1,2103.52
+574,167,2025-12-12,2026-05-02,Manaus,Intermediario,Teclado,35.0,5,229.3
+575,151,2024-09-10,2026-04-23,Manaus,Basico,Notebook,43.0,2,636.5
+576,177,2025-09-17,2026-09-10,Belem,Basico,Teclado,37.0,3,54.9
+577,25,2025-11-07,2026-08-27,Macapa,Basico,Teclado,35.0,2,2764.57
+578,67,2025-09-12,2026-07-19,Macapa,Intermediario,Headset,41.0,1,677.95
+579,39,2025-11-21,2026-04-25,Boa Vista,Intermediario,Monitor,55.0,4,4934.16
+580,147,2026-01-13,2026-07-23,Boa Vista,Intermediario,Mouse,68.0,4,2129.41
+581,25,2025-04-16,2026-07-14,Boa Vista,Basico,Notebook,42.0,5,1926.67
+582,134,2024-08-16,2026-08-08,Boa Vista,Intermediario,Notebook,41.0,5,2860.67
+583,123,2024-06-25,2026-04-27,Macapa,Intermediario,Teclado,26.0,4,2308.42
+584,67,2025-11-13,2026-05-06,Belem,Basico,Headset,68.0,1,3558.87
+585,156,2023-09-28,2026-06-23,Macapa,Premium,Notebook,25.0,4,346.95
+586,34,2024-10-09,2026-08-16,Santarem,Intermediario,Teclado,45.0,2,3501.55
+587,103,2024-10-05,2026-06-19,Belem,Premium,Teclado,59.0,5,3350.82
+588,158,2025-01-25,2026-05-21,Belem,Premium,Notebook,71.0,2,105.37
+589,32,2023-10-10,2026-05-04,Belem,Basico,Headset,75.0,1,1453.83
+590,149,2025-03-16,2026-09-09,Belem,Intermediario,Monitor,19.0,5,4382.71
+591,187,2025-11-14,2026-09-15,Santarem,Basico,Notebook,45.0,5,2613.5
+592,40,2025-05-30,2026-05-30,Macapa,Intermediario,Notebook,36.0,2,4574.4
+593,30,2024-04-01,2026-06-05,Boa Vista,Premium,Notebook,61.0,3,1322.89
+594,186,2024-11-21,2026-08-01,Belem,Premium,Mouse,27.0,3,957.42
+595,52,2025-01-28,2026-08-26,Santarem,Basico,Notebook,33.0,5,2553.34
+596,81,2024-03-12,2026-08-27,Santarem,Premium,Monitor,30.0,4,4381.74
+597,35,2024-09-17,2026-05-04,Belem,Premium,Notebook,59.0,4,378.45
+598,150,2025-08-26,2026-07-03,Macapa,Premium,Teclado,72.0,1,3071.52
+599,121,2024-04-07,2026-04-17,Boa Vista,Basico,Mouse,71.0,3,2836.9
+600,10,2025-01-24,2026-05-05,Santarem,Basico,Mouse,67.0,5,535.5
+601,124,2024-03-03,2026-06-08,Manaus,Intermediario,Mouse,34.0,4,468.18
+602,80,2024-04-22,2026-06-05,Manaus,Intermediario,Notebook,37.0,1,3766.64
+603,52,2025-07-09,2026-08-05,Boa Vista,Intermediario,Monitor,44.0,4,1429.1
+604,176,2024-06-21,2026-05-15,Boa Vista,Basico,Notebook,51.0,2,1211.63
+605,80,2025-04-08,2026-07-30,Santarem,Intermediario,Teclado,24.0,3,1605.07
+606,83,2025-11-26,2026-07-23,Belem,Premium,Headset,18.0,4,1921.04
+607,94,2024-04-08,2026-07-25,Macapa,Intermediario,Mouse,40.0,2,4927.55
+608,26,2024-06-24,2026-05-25,Santarem,Premium,Notebook,35.0,1,3195.93
+609,180,2025-04-20,2026-08-20,Boa Vista,Premium,Monitor,43.0,3,3760.1
+610,43,2023-10-20,2026-08-31,Manaus,Basico,Monitor,57.0,5,1280.94
+611,42,2024-01-10,2026-07-05,Macapa,Premium,Monitor,19.0,4,3092.3
+612,173,2025-01-04,2026-07-10,Santarem,Basico,Notebook,66.0,2,1386.0
+613,47,2024-10-02,2026-05-09,Manaus,Basico,Mouse,27.0,5,1900.91
+614,15,2025-02-18,2026-04-19,Manaus,Intermediario,Notebook,26.0,4,2269.87
+615,64,2026-03-21,2026-06-27,Boa Vista,Basico,Headset,49.0,4,4352.0
+616,3,2023-12-22,2026-06-04,Belem,Basico,Monitor,23.0,4,1373.13
+617,48,2025-09-12,2026-08-22,Macapa,Basico,Monitor,35.0,4,3816.72
+618,108,2025-06-18,2026-04-16,Belem,Intermediario,Teclado,61.0,3,4599.48
+619,79,2024-01-21,2026-09-01,Boa Vista,Basico,Headset,40.0,5,2354.22
+620,181,2026-02-20,2026-08-15,Macapa,Basico,Mouse,53.0,2,891.21
+621,188,2023-11-10,2026-08-22,Macapa,Basico,Headset,58.0,4,3222.68
+622,12,2024-07-22,2026-06-19,Belem,Premium,Monitor,43.0,1,4691.64
+623,57,2025-07-01,2026-05-31,Belem,Intermediario,Monitor,52.0,4,2283.93
+624,96,2024-08-31,2026-09-04,Macapa,Premium,Monitor,65.0,2,1400.54
+625,131,2025-11-06,2026-04-18,Belem,Premium,Mouse,63.0,3,992.58
+626,137,2025-10-09,2026-08-13,Manaus,Basico,Notebook,54.0,4,4722.54
+627,25,2025-03-08,2026-08-20,Boa Vista,Intermediario,Notebook,58.0,1,3620.78
+628,102,2024-05-04,2026-06-20,Boa Vista,Intermediario,Notebook,22.0,4,1913.87
+629,4,2025-06-29,2026-06-16,Macapa,Intermediario,Headset,22.0,1,4143.69
+630,82,2024-08-24,2026-09-25,Santarem,Basico,Monitor,26.0,5,959.77
+631,68,2026-04-04,2026-09-02,Manaus,Basico,Mouse,64.0,1,971.39
+632,97,2025-06-03,2026-09-23,Macapa,Premium,Notebook,63.0,5,1594.91
+633,156,2023-10-14,2026-09-10,Boa Vista,Premium,Notebook,21.0,4,3023.98
+634,13,2024-07-08,2026-08-21,Macapa,Basico,Notebook,49.0,1,3040.46
+635,60,2023-10-10,2026-06-04,Santarem,Basico,Monitor,50.0,5,3406.16
+636,69,2026-02-27,2026-09-08,Boa Vista,Premium,Mouse,58.0,1,2560.81
+637,125,2023-11-24,2026-05-17,Belem,Premium,Teclado,65.0,1,335.58
+638,199,2026-01-20,2026-04-14,Santarem,Basico,Headset,26.0,1,1477.18
+639,59,2025-10-07,2026-06-14,Macapa,Basico,Teclado,46.0,4,3256.99
+640,152,2025-04-12,2026-08-16,Manaus,Intermediario,Notebook,50.0,1,4662.38
+641,108,2024-05-04,2026-08-06,Boa Vista,Premium,Headset,61.0,4,4644.78
+642,170,2025-03-17,2026-09-16,Macapa,Basico,Notebook,30.0,1,522.0
+643,126,2025-05-16,2026-08-31,Santarem,Premium,Monitor,74.0,3,774.86
+644,171,2024-05-16,2026-08-17,Belem,Intermediario,Notebook,65.0,2,1686.47
+645,168,2025-07-26,2026-06-26,Boa Vista,Basico,Monitor,34.0,4,738.08
+646,158,2024-03-22,2026-04-07,Santarem,Intermediario,Notebook,35.0,4,2443.38
+647,34,2025-02-24,2026-08-19,Macapa,Basico,Teclado,39.0,1,863.05
+648,4,2025-12-04,2026-07-12,Boa Vista,Basico,Mouse,32.0,2,1644.3
+649,132,2023-12-30,2026-04-13,Manaus,Premium,Headset,63.0,2,618.43
+650,177,2024-11-09,2026-08-09,Belem,Basico,Headset,53.0,5,2389.24
+651,25,2023-10-24,2026-07-01,Manaus,Intermediario,Mouse,73.0,3,234.69
+652,56,2024-03-26,2026-09-16,Macapa,Premium,Mouse,33.0,3,262.73
+653,1,2026-01-22,2026-09-03,Santarem,Basico,Notebook,18.0,3,1726.54
+654,13,2025-09-07,2026-07-03,Macapa,Premium,Monitor,37.0,5,743.89
+655,188,2023-11-04,2026-08-06,Manaus,Basico,Monitor,58.0,4,3535.39
+656,112,2024-03-11,2026-08-30,Manaus,Intermediario,Teclado,26.0,2,571.03
+657,128,2024-08-01,2026-07-08,Macapa,Basico,Mouse,23.0,1,994.1
+658,168,2024-08-25,2026-09-26,Santarem,Basico,Teclado,20.0,1,2195.2
+659,93,2025-05-15,2026-06-11,Santarem,Premium,Teclado,49.0,3,2460.56
+660,3,2023-10-29,2026-07-27,Santarem,Premium,Teclado,67.0,3,181.07
+661,28,2023-11-19,2026-07-08,Belem,Intermediario,Mouse,68.0,5,3607.51
+662,68,2026-02-20,2026-04-18,Macapa,Basico,Notebook,45.0,3,404.24
+663,24,2023-11-28,2026-05-09,Boa Vista,Intermediario,Teclado,63.0,4,1494.88
+664,98,2026-02-05,2026-08-28,Santarem,Premium,Notebook,23.0,1,1590.55
+665,66,2026-03-24,2026-04-08,Manaus,Premium,Monitor,26.0,5,3041.32
+666,41,2024-02-15,2026-04-16,Manaus,Basico,Headset,69.0,3,1154.03
+667,14,2023-11-18,2026-07-06,Belem,Premium,Notebook,22.0,2,1865.1
+668,38,2025-05-16,2026-08-02,Manaus,Intermediario,Headset,64.0,2,2627.81
+669,38,2025-05-27,2026-05-20,Boa Vista,Intermediario,Notebook,29.0,1,2539.83
+670,91,2024-07-25,2026-05-05,Santarem,Basico,Teclado,69.0,4,1993.91
+671,179,2026-03-05,2026-06-28,Macapa,Premium,Notebook,19.0,2,2502.68
+672,60,2025-05-12,2026-06-21,Manaus,Premium,Teclado,50.0,4,3351.46
+673,173,2025-06-16,2026-08-30,Belem,Basico,Teclado,68.0,3,1607.76
+674,138,2025-06-05,2026-06-17,Santarem,Basico,Monitor,41.0,1,2233.16
+675,1,2024-01-04,2026-06-28,Macapa,Premium,Headset,18.0,1,2560.88
+676,146,2025-03-10,2026-06-13,Macapa,Intermediario,Headset,48.0,3,4773.63
+677,7,2025-07-15,2026-09-06,Boa Vista,Intermediario,Headset,56.0,3,1053.26
+678,113,2024-07-13,2026-04-10,Manaus,Premium,Headset,48.0,3,1379.14
+679,176,2025-11-28,2026-07-22,Santarem,Basico,Headset,55.0,1,3715.2
+680,173,2023-12-04,2026-04-30,Macapa,Premium,Notebook,22.0,4,3257.42
+681,171,2026-01-31,2026-06-28,Boa Vista,Intermediario,Teclado,46.0,5,4396.05
+682,164,2024-03-18,2026-07-19,Manaus,Intermediario,Mouse,68.0,3,549.02
+683,158,2024-08-06,2026-04-04,Macapa,Intermediario,Teclado,49.0,1,1532.59
+684,124,2025-09-03,2026-07-15,Santarem,Basico,Monitor,59.0,1,4258.9
+685,57,2024-02-03,2026-07-03,Belem,Basico,Monitor,24.0,3,813.24
+686,71,2024-12-04,2026-06-01,Macapa,Premium,Headset,58.0,5,4116.99
+687,146,2024-11-03,2026-08-30,Manaus,Premium,Headset,43.0,2,425.94
+688,31,2024-11-04,2026-04-05,Belem,Intermediario,Mouse,43.0,1,3001.39
+689,64,2025-08-05,2026-05-17,Macapa,Basico,Notebook,69.0,2,4400.9
+690,30,2025-05-30,2026-09-28,Santarem,Premium,Monitor,33.0,2,4117.12
+691,8,2024-07-07,2026-05-07,Manaus,Intermediario,Notebook,19.0,1,4954.79
+692,127,2024-04-15,2026-08-09,Boa Vista,Basico,Headset,19.0,1,3969.64
+693,52,2025-02-13,2026-07-08,Santarem,Intermediario,Notebook,40.0,2,3769.05
+694,19,2024-04-05,2026-09-19,Santarem,Intermediario,Mouse,46.0,2,4835.48
+695,164,2025-02-24,2026-07-02,Manaus,Premium,Teclado,45.0,3,2785.72
+696,138,2025-03-03,2026-05-08,Boa Vista,Intermediario,Headset,28.0,5,2843.27
+697,57,2025-02-22,2026-08-01,Santarem,Basico,Headset,70.0,3,3514.91
+698,40,2024-05-15,2026-08-23,Santarem,Basico,Monitor,63.0,2,2516.95
+699,59,2024-10-10,2026-04-05,Macapa,Premium,Headset,48.0,4,689.22
+700,115,2024-03-14,2026-08-21,Santarem,Premium,Monitor,37.0,2,4278.3
+701,181,2025-03-20,2026-04-09,Manaus,Intermediario,Notebook,53.0,4,3604.97
+702,6,2024-10-30,2026-05-20,Manaus,Intermediario,Headset,53.0,4,1426.47
+703,104,2023-11-04,2026-06-14,Santarem,Basico,Headset,32.0,5,4598.6
+704,179,2024-05-10,2026-04-19,Santarem,Premium,Notebook,22.0,3,3838.61
+705,106,2024-12-11,2026-06-13,Boa Vista,Premium,Notebook,52.0,2,2554.52
+706,199,2025-03-03,2026-06-01,Macapa,Premium,Notebook,39.0,5,2447.7
+707,97,2026-02-19,2026-04-07,Macapa,Basico,Teclado,18.0,1,3540.37
+708,60,2024-04-03,2026-06-14,Belem,Premium,Teclado,65.0,1,1552.73
+709,69,2024-01-08,2026-05-22,Manaus,Intermediario,Headset,43.0,2,1683.62
+710,131,2025-01-26,2026-07-17,Manaus,Premium,Headset,27.0,1,4267.23
+711,92,2024-01-31,2026-06-06,Manaus,Basico,Mouse,26.0,3,1497.72
+712,8,2024-03-30,2026-04-14,Manaus,Intermediario,Headset,47.0,4,2595.88
+713,105,2024-06-19,2026-06-14,Manaus,Basico,Headset,69.0,1,4868.08
+714,65,2024-03-18,2026-05-12,Boa Vista,Basico,Teclado,50.0,5,1568.53
+715,36,2024-05-04,2026-04-04,Macapa,Basico,Mouse,69.0,3,1645.48
+716,120,2025-04-13,2026-09-06,Boa Vista,Intermediario,Mouse,60.0,4,414.87
+717,10,2024-04-30,2026-06-10,Santarem,Intermediario,Teclado,52.0,4,4579.94
+718,180,2024-03-29,2026-04-05,Belem,Basico,Teclado,61.0,4,1498.34
+719,90,2024-03-26,2026-09-21,Belem,Basico,Headset,45.0,1,269.77
+720,96,2023-09-30,2026-06-21,Boa Vista,Premium,Headset,36.0,5,2219.67
+721,137,2025-07-15,2026-08-15,Macapa,Basico,Teclado,75.0,2,4680.98
+722,155,2026-04-01,2026-07-03,Macapa,Basico,Mouse,53.0,1,1167.6
+723,72,2024-08-09,2026-07-21,Belem,Intermediario,Monitor,18.0,5,3032.66
+724,115,2024-07-05,2026-07-14,Belem,Intermediario,Notebook,66.0,2,4823.2
+725,102,2024-09-09,2026-08-18,Belem,Premium,Teclado,26.0,5,3358.8
+726,69,2024-11-05,2026-05-14,Boa Vista,Basico,Monitor,71.0,4,989.35
+727,41,2025-12-28,2026-05-18,Boa Vista,Intermediario,Teclado,62.0,3,2965.65
+728,61,2026-02-07,2026-06-21,Boa Vista,Basico,Mouse,33.0,5,2695.17
+729,130,2025-07-24,2026-05-25,Macapa,Basico,Headset,56.0,1,306.44
+730,135,2024-05-09,2026-08-12,Belem,Basico,Mouse,33.0,2,4302.93
+731,153,2025-07-05,2026-04-14,Belem,Premium,Mouse,49.0,2,1622.39
+732,175,2026-01-18,2026-07-03,Macapa,Premium,Teclado,57.0,5,333.59
+733,45,2025-09-21,2026-04-19,Boa Vista,Intermediario,Headset,32.0,4,1240.34
+734,51,2025-03-14,2026-08-01,Belem,Intermediario,Notebook,74.0,2,2900.32
+735,177,2025-05-08,2026-05-02,Santarem,Premium,Mouse,20.0,2,3963.83
+736,157,2024-01-17,2026-07-26,Belem,Premium,Teclado,35.0,2,314.01
+737,13,2024-05-26,2026-10-01,Macapa,Premium,Teclado,60.0,3,963.13
+738,153,2026-01-08,2026-06-16,Belem,Intermediario,Headset,53.0,4,1937.98
+739,138,2026-02-28,2026-08-20,Santarem,Intermediario,Notebook,63.0,3,3772.16
+740,199,2025-03-11,2026-08-11,Belem,Intermediario,Notebook,46.0,1,2178.63
+741,150,2024-01-13,2026-09-16,Belem,Intermediario,Teclado,75.0,4,351.11
+742,17,2025-11-15,2026-06-04,Belem,Basico,Monitor,65.0,3,3684.27
+743,144,2024-01-27,2026-08-29,Santarem,Premium,Headset,51.0,4,4268.29
+744,180,2024-02-29,2026-07-24,Santarem,Intermediario,Headset,64.0,5,2402.28
+745,34,2024-08-25,2026-06-21,Manaus,Premium,Headset,26.0,3,4107.65
+746,156,2024-03-30,2026-04-30,Boa Vista,Intermediario,Mouse,50.0,4,3796.75
+747,109,2023-11-25,2026-08-24,Boa Vista,Intermediario,Teclado,56.0,3,878.09
+748,146,2023-10-21,2026-08-23,Belem,Intermediario,Monitor,73.0,4,2234.02
+749,130,2025-09-22,2026-07-10,Macapa,Basico,Headset,64.0,3,496.18
+750,23,2024-06-14,2026-08-26,Belem,Premium,Headset,62.0,2,1041.34
+751,172,2026-01-16,2026-05-20,Manaus,Premium,Teclado,27.0,4,2349.78
+752,75,2025-05-23,2026-07-06,Belem,Basico,Mouse,18.0,5,867.14
+753,31,2023-10-08,2026-07-07,Belem,Intermediario,Notebook,36.0,2,339.15
+754,86,2024-04-08,2026-05-04,Manaus,Basico,Mouse,30.0,4,3171.7
+755,132,2023-11-22,2026-07-26,Boa Vista,Intermediario,Monitor,56.0,5,3972.5
+756,72,2025-01-08,2026-07-03,Santarem,Intermediario,Notebook,64.0,4,4811.07
+757,133,2026-01-16,2026-07-05,Boa Vista,Basico,Headset,42.0,2,2647.82
+758,138,2023-12-03,2026-08-27,Boa Vista,Intermediario,Notebook,71.0,2,3505.82
+759,3,2025-09-13,2026-05-30,Belem,Basico,Notebook,65.0,1,2833.53
+760,24,2024-08-12,2026-06-25,Santarem,Intermediario,Monitor,55.0,3,1403.78
+761,27,2026-03-21,2026-08-13,Belem,Basico,Mouse,47.0,1,149.72
+762,11,2025-11-11,2026-07-12,Santarem,Premium,Monitor,53.0,5,4000.93
+763,188,2024-10-29,2026-05-02,Macapa,Premium,Teclado,30.0,1,2182.88
+764,63,2025-04-10,2026-04-05,Manaus,Basico,Mouse,26.0,4,4212.68
+765,127,2024-04-27,2026-07-18,Santarem,Basico,Teclado,50.0,1,3628.52
+766,74,2024-11-19,2026-08-11,Belem,Basico,Mouse,64.0,5,3140.59
+767,123,2025-01-22,2026-07-17,Santarem,Premium,Teclado,50.0,3,1487.03
+768,16,2025-02-24,2026-05-26,Santarem,Premium,Notebook,62.0,4,1450.75
+769,72,2024-07-16,2026-04-28,Santarem,Intermediario,Monitor,22.0,4,4797.55
+770,178,2024-12-23,2026-07-26,Santarem,Intermediario,Monitor,47.0,2,1452.36
+771,106,2025-03-10,2026-07-02,Belem,Premium,Mouse,67.0,2,3039.13
+772,53,2025-09-14,2026-07-25,Boa Vista,Basico,Teclado,56.0,4,453.14
+773,4,2025-01-27,2026-05-08,Macapa,Premium,Monitor,18.0,2,4748.8
+774,111,2025-06-10,2026-08-12,Manaus,Basico,Mouse,27.0,4,2361.86
+775,29,2025-04-29,2026-05-02,Belem,Basico,Notebook,65.0,1,4995.25
+776,129,2025-03-21,2026-08-25,Macapa,Basico,Headset,26.0,1,2122.0
+777,72,2024-06-13,2026-06-29,Boa Vista,Intermediario,Monitor,68.0,3,4873.49
+778,46,2026-02-27,2026-06-19,Boa Vista,Basico,Headset,66.0,5,1311.12
+779,103,2025-11-24,2026-05-02,Santarem,Intermediario,Teclado,59.0,3,4626.86
+780,190,2024-09-11,2026-05-20,Belem,Basico,Teclado,68.0,1,1001.95
+781,86,2025-11-24,2026-05-22,Boa Vista,Premium,Monitor,31.0,3,1903.12
+782,102,2024-07-28,2026-09-14,Boa Vista,Intermediario,Headset,48.0,3,4108.43
+783,32,2024-12-20,2026-09-26,Manaus,Premium,Headset,34.0,2,2009.77
+784,36,2025-06-28,2026-07-20,Manaus,Premium,Teclado,40.0,4,2180.99
+785,98,2025-09-16,2026-04-28,Boa Vista,Basico,Mouse,33.0,5,1076.4
+786,63,2024-11-05,2026-08-17,Manaus,Premium,Headset,23.0,1,4554.19
+787,131,2024-12-02,2026-05-11,Manaus,Basico,Teclado,58.0,1,2510.6
+788,14,2025-08-05,2026-07-12,Belem,Basico,Monitor,41.0,3,511.43
+789,72,2026-01-27,2026-04-17,Macapa,Premium,Notebook,36.0,4,930.18
+790,43,2024-01-14,2026-08-04,Belem,Premium,Notebook,68.0,5,1511.87
+791,23,2025-03-09,2026-08-02,Boa Vista,Intermediario,Headset,61.0,4,391.25
+792,10,2024-10-06,2026-08-26,Boa Vista,Basico,Headset,56.0,1,2010.04
+793,68,2025-06-18,2026-06-28,Macapa,Basico,Monitor,75.0,2,1757.09
+794,68,2026-01-11,2026-07-17,Manaus,Intermediario,Notebook,28.0,3,759.54
+795,126,2023-11-09,2026-06-20,Macapa,Premium,Teclado,59.0,1,427.99
+796,126,2025-09-30,2026-04-20,Macapa,Intermediario,Notebook,57.0,3,3276.49
+797,75,2026-01-14,2026-06-16,Manaus,Basico,Teclado,30.0,2,1891.79
+798,44,2026-01-28,2026-07-15,Belem,Basico,Teclado,21.0,5,4981.51
+799,177,2023-10-16,2026-06-25,Manaus,Premium,Notebook,66.0,2,1226.69
+800,49,2026-03-23,2026-06-02,Macapa,Premium,Teclado,59.0,2,942.75

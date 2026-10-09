@@ -1,0 +1,62 @@
+
+# ==========================================
+# P15 - PROJETO INTEGRADOR UNIFAP
+# Arquivos ignorados pelo Git
+# ==========================================
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Credenciais e configuracoes locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+
+# Configuracoes de IDE
+.vscode/
+.idea/
+
+# Arquivos temporarios
+*.tmp
+*.temp
+*.bak
+*.log
+.ipynb_checkpoints/
+
+# Cache de testes
+.pytest_cache/
+.mypy_cache/
+
+# Arquivos locais do sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Backups de banco de dados
+*.backup
+*.dump
+
+# ==========================================
+# ARQUIVOS QUE DEVEM SER PRESERVADOS NO GIT
+# ==========================================
+
+# Scripts Python (.py)
+# Scripts SQL (.sql)
+# Datasets (.csv)
+# Notebooks (.ipynb)
+# Graficos (.png)
+# Modelo treinado (.pkl)
+# Metricas (.csv e .json)
+# README.md
+# Dockerfile
+# requirements.txt

@@ -1,0 +1,198 @@
+cliente_id,canal_aquisicao,tipo_contrato,preferencia_contato,aceita_marketing,possui_programa_fidelidade
+1,Indicacao,Anual,Email,1,1
+2,Loja fisica,Mensal,WhatsApp,0,1
+3,Indicacao,Mensal,WhatsApp,1,0
+4,Loja fisica,Trimestral,Email,0,0
+5,Online,Anual,WhatsApp,0,0
+6,Campanha,Trimestral,WhatsApp,1,0
+7,Indicacao,Mensal,Email,1,0
+8,Indicacao,Mensal,Telefone,1,0
+9,Online,Mensal,WhatsApp,1,0
+10,Loja fisica,Mensal,Email,1,0
+11,Online,Trimestral,Telefone,1,1
+12,Campanha,Mensal,Telefone,1,1
+13,Loja fisica,Trimestral,Email,1,1
+14,Indicacao,Trimestral,WhatsApp,1,0
+15,Loja fisica,Trimestral,Email,1,1
+16,Online,Mensal,Telefone,1,0
+17,Loja fisica,Anual,WhatsApp,0,0
+18,Online,Trimestral,WhatsApp,1,0
+19,Indicacao,Trimestral,Email,1,1
+20,Loja fisica,Mensal,Telefone,1,0
+21,Indicacao,Mensal,Email,1,0
+22,Online,Anual,Email,1,1
+23,Campanha,Mensal,Email,1,0
+24,Indicacao,Mensal,WhatsApp,0,0
+25,Indicacao,Mensal,Email,1,1
+26,Online,Trimestral,Telefone,1,0
+27,Loja fisica,Anual,WhatsApp,0,0
+28,Online,Mensal,Email,0,1
+29,Online,Anual,Email,0,1
+30,Loja fisica,Mensal,Email,1,0
+31,Indicacao,Trimestral,WhatsApp,1,1
+32,Campanha,Trimestral,WhatsApp,1,0
+33,Online,Mensal,Email,1,0
+34,Online,Mensal,WhatsApp,1,0
+35,Loja fisica,Mensal,Email,1,0
+36,Online,Anual,WhatsApp,1,1
+37,Online,Trimestral,Telefone,0,1
+38,Loja fisica,Anual,WhatsApp,1,0
+39,Online,Anual,WhatsApp,1,0
+40,Loja fisica,Mensal,WhatsApp,1,0
+41,Loja fisica,Trimestral,Email,1,1
+42,Indicacao,Mensal,Email,0,0
+43,Indicacao,Mensal,Email,1,1
+44,Online,Anual,WhatsApp,0,0
+45,Indicacao,Trimestral,WhatsApp,0,0
+46,Indicacao,Mensal,WhatsApp,1,1
+47,Online,Trimestral,Telefone,1,1
+48,Online,Trimestral,Email,1,0
+49,Loja fisica,Anual,WhatsApp,1,1
+50,Online,Trimestral,Email,1,1
+51,Online,Mensal,Email,1,0
+52,Online,Mensal,WhatsApp,0,0
+53,Indicacao,Mensal,Telefone,0,0
+54,Loja fisica,Trimestral,WhatsApp,1,1
+55,Indicacao,Anual,Email,1,0
+56,Indicacao,Mensal,WhatsApp,0,0
+57,Loja fisica,Mensal,Email,1,0
+58,Loja fisica,Mensal,Telefone,1,1
+59,Online,Trimestral,WhatsApp,0,0
+60,Online,Anual,Email,1,1
+61,Loja fisica,Mensal,Email,1,0
+62,Loja fisica,Mensal,Email,1,1
+63,Loja fisica,Trimestral,Telefone,0,0
+64,Indicacao,Mensal,WhatsApp,1,0
+65,Loja fisica,Anual,WhatsApp,0,1
+66,Loja fisica,Mensal,WhatsApp,1,1
+67,Loja fisica,Mensal,WhatsApp,0,0
+68,Online,Anual,Email,1,0
+69,Online,Mensal,Telefone,1,1
+70,Loja fisica,Mensal,Email,0,1
+71,Online,Mensal,WhatsApp,1,0
+72,Loja fisica,Mensal,WhatsApp,0,0
+73,Indicacao,Mensal,WhatsApp,0,1
+74,Online,Mensal,Telefone,0,1
+75,Online,Mensal,Email,1,1
+76,Online,Mensal,WhatsApp,1,0
+77,Online,Trimestral,WhatsApp,1,0
+79,Loja fisica,Trimestral,WhatsApp,0,1
+80,Loja fisica,Mensal,Email,1,1
+81,Indicacao,Mensal,Email,0,1
+82,Loja fisica,Trimestral,Email,1,0
+83,Loja fisica,Anual,Email,1,0
+84,Indicacao,Anual,WhatsApp,1,1
+85,Online,Mensal,WhatsApp,1,0
+86,Online,Mensal,WhatsApp,1,1
+87,Online,Mensal,WhatsApp,1,0
+88,Indicacao,Mensal,WhatsApp,1,1
+89,Loja fisica,Trimestral,Email,0,1
+90,Online,Mensal,WhatsApp,1,0
+91,Loja fisica,Mensal,Email,0,0
+92,Online,Mensal,Email,0,1
+93,Loja fisica,Trimestral,WhatsApp,0,0
+94,Loja fisica,Mensal,WhatsApp,1,0
+95,Online,Anual,Email,1,1
+96,Online,Mensal,WhatsApp,0,1
+97,Loja fisica,Anual,WhatsApp,1,0
+98,Online,Mensal,WhatsApp,1,0
+99,Online,Anual,WhatsApp,1,0
+100,Online,Anual,WhatsApp,1,0
+101,Campanha,Anual,Email,0,0
+102,Campanha,Anual,WhatsApp,1,0
+103,Loja fisica,Trimestral,WhatsApp,0,1
+104,Online,Trimestral,WhatsApp,0,0
+105,Campanha,Trimestral,WhatsApp,1,1
+106,Indicacao,Mensal,Email,1,0
+107,Indicacao,Trimestral,WhatsApp,1,0
+108,Loja fisica,Trimestral,WhatsApp,1,1
+109,Online,Anual,Telefone,1,1
+110,Online,Mensal,Telefone,0,0
+111,Campanha,Mensal,WhatsApp,0,0
+112,Loja fisica,Trimestral,WhatsApp,0,0
+113,Online,Mensal,WhatsApp,0,0
+114,Online,Mensal,Email,1,0
+115,Loja fisica,Mensal,WhatsApp,0,0
+116,Online,Mensal,WhatsApp,1,0
+117,Indicacao,Mensal,Email,1,0
+118,Indicacao,Mensal,Email,1,1
+119,Indicacao,Mensal,WhatsApp,1,1
+120,Loja fisica,Mensal,Email,1,0
+121,Loja fisica,Mensal,Email,1,0
+122,Loja fisica,Trimestral,Email,1,0
+123,Loja fisica,Mensal,Email,1,0
+124,Online,Anual,Email,1,1
+125,Loja fisica,Anual,WhatsApp,1,1
+126,Online,Mensal,Email,0,1
+127,Loja fisica,Mensal,WhatsApp,1,1
+128,Online,Trimestral,Telefone,0,1
+129,Online,Anual,Email,1,1
+130,Online,Trimestral,Email,1,0
+131,Loja fisica,Anual,WhatsApp,1,0
+132,Online,Trimestral,Email,1,0
+133,Campanha,Trimestral,Email,0,0
+134,Loja fisica,Mensal,Telefone,1,0
+135,Online,Trimestral,Telefone,0,1
+136,Loja fisica,Mensal,WhatsApp,0,1
+137,Online,Trimestral,Email,0,0
+138,Campanha,Anual,WhatsApp,0,0
+139,Loja fisica,Mensal,WhatsApp,1,0
+140,Indicacao,Trimestral,Email,1,0
+141,Online,Mensal,WhatsApp,0,1
+142,Loja fisica,Trimestral,Email,0,0
+143,Loja fisica,Mensal,Email,0,1
+144,Campanha,Anual,WhatsApp,1,0
+145,Loja fisica,Mensal,Email,0,0
+146,Loja fisica,Anual,Email,1,0
+147,Online,Anual,WhatsApp,0,1
+148,Online,Trimestral,Telefone,0,1
+149,Loja fisica,Trimestral,WhatsApp,1,0
+150,Loja fisica,Trimestral,WhatsApp,1,1
+151,Online,Anual,Telefone,0,0
+152,Indicacao,Mensal,Email,0,1
+153,Indicacao,Trimestral,WhatsApp,1,0
+154,Online,Mensal,Email,0,0
+155,Loja fisica,Trimestral,Email,1,1
+156,Online,Mensal,WhatsApp,1,0
+157,Loja fisica,Trimestral,WhatsApp,0,0
+158,Online,Trimestral,WhatsApp,1,0
+159,Loja fisica,Mensal,Email,1,0
+160,Indicacao,Trimestral,Email,1,1
+161,Indicacao,Trimestral,Telefone,0,1
+162,Online,Trimestral,Email,0,1
+163,Campanha,Mensal,Email,0,0
+164,Online,Trimestral,Email,1,0
+165,Online,Anual,WhatsApp,1,0
+166,Loja fisica,Mensal,WhatsApp,0,0
+167,Online,Mensal,WhatsApp,0,0
+168,Indicacao,Mensal,Email,1,1
+169,Indicacao,Trimestral,Email,0,1
+170,Online,Mensal,WhatsApp,1,1
+171,Campanha,Trimestral,WhatsApp,1,0
+172,Online,Trimestral,WhatsApp,0,0
+173,Loja fisica,Mensal,WhatsApp,0,0
+175,Online,Anual,WhatsApp,0,0
+176,Campanha,Trimestral,Email,1,0
+177,Online,Mensal,Email,0,0
+178,Online,Mensal,WhatsApp,0,0
+179,Loja fisica,Mensal,Email,0,1
+180,Campanha,Mensal,WhatsApp,0,0
+181,Indicacao,Mensal,WhatsApp,1,1
+182,Indicacao,Anual,WhatsApp,0,0
+183,Indicacao,Mensal,Telefone,1,0
+184,Indicacao,Mensal,WhatsApp,1,0
+185,Loja fisica,Trimestral,Telefone,1,0
+186,Online,Trimestral,WhatsApp,0,0
+187,Indicacao,Anual,Telefone,1,0
+188,Loja fisica,Trimestral,Email,1,1
+189,Online,Mensal,WhatsApp,0,0
+190,Online,Mensal,WhatsApp,1,1
+191,Indicacao,Anual,Email,1,0
+193,Online,Trimestral,Email,0,0
+194,Campanha,Anual,Telefone,1,0
+195,Online,Mensal,WhatsApp,1,0
+196,Online,Anual,Email,1,1
+197,Indicacao,Trimestral,Email,1,1
+198,Online,Mensal,Email,1,1
+199,Online,Trimestral,Email,1,0
+200,Loja fisica,Trimestral,Telefone,0,0
